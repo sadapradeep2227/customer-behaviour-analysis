@@ -142,15 +142,8 @@ The dashboard focuses on key business KPIs, trends, comparisons, and performance
 The Power BI dashboard provides an interactive view of the most important insights from the analysis.
 
 ### Dashboard Preview
+<img width="1301" height="733" alt="Screenshot 2026-09-06 183348" src="https://github.com/user-attachments/assets/1b7ffd62-f6d8-439e-8e4b-93d4e26dab6d" />
 
-Add your Power BI dashboard screenshot here:
-
-```markdown
-<img width="1301" height="733" alt="Screenshot 2026-09-06 183348" src="https://github.com/user-attachments/assets/1a1f3655-9848-4e99-9485-f1f1a2d09011" />
-
-```
-
-You can also add the Power BI `.pbix` file or a link to the published dashboard if available.
 
 ---
 
@@ -292,8 +285,8 @@ This project demonstrates practical skills in:
 
 Data Analyst | Python | SQL | Power BI
 
-📧 Email: [your.email@example.com](mailto:sadapradeep654@gmail.com)
-🔗 LinkedIn: [Your LinkedIn Profile](linkedin.com/in/sada-sivam-2227)
+📧 Email: [sadapradeep654@gmail.com](mailto:sadapradeep654@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/sada-sivam-2227](linkedin.com/in/sada-sivam-2227)
 
 
 ---
